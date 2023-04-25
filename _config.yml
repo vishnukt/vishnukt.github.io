@@ -10,11 +10,11 @@ permalink:              /blog/:categories/:title/
 # permalink:            blog/:categories/:year/:month/:day/:title/
 
 # Setup
-title:            'Anjana Sofia Vakil'
-name:             'Anjana Sofia Vakil'
+title:            'VISHNU KT'
+name:             'VISHNU KT'
 #tagline:          ''
-description:      'Developer Educator & Software Engineer'
-#url:              http://vakila.github.io/
+description:      'Software Engineer'
+#url:              http://vishnukt.github.io/
 baseurl:
 blogurl:          /blog/
 
@@ -23,28 +23,28 @@ images:         '/img'
 pdfs:           '/pdf'
 
 author:
-  name:           'Anjana Sofia Vakil'
-  url:            anjana.dev
-  email:          'contact@anjana.dev'
-  github:         'https://github.com/vakila'
+  name:           'VISHNU KT'
+  url:            vishnukt.github.io
+  email:          'kt.vishnu19@gmail.com'
+  github:         'https://github.com/vishnukt'
   facebook:       ''
-  twitter:        'https://twitter.com/AnjanaVakil'
+  twitter:        ''
   googleplus:     ''
-  linkedin:       'https://www.linkedin.com/in/anjanavakil '
+  linkedin:       'https://www.linkedin.com/in/vishnu-kt/ '
 
 paginate:         5
 paginate_path:    "/blog/page:num/"
 
 # Custom vars
-version:          2.1.0
+version:          1.0.1
 
 github:
-  repo:           https://github.com/vakila/vakila.github.io
+  repo:           https://github.com/vishnukt/vishnukt.github.io
 
 # Collections
 collections:
-  - projects
-  - talks
+  #- projects
+  #- talks
 
 # defaults:
 #   -
