@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 highlighter:      rouge
 
@@ -53,3 +54,7 @@ collections:
 #       type: "projects" # a collection in your site, in plural form
 #     values:
 #       layout: "default"
+=======
+title: VISHNU KT
+description: Software Engineer
+>>>>>>> master
