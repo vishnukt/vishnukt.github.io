@@ -43,7 +43,7 @@ github:
 
 # Collections
 collections:
-  #- projects
+  - projects
   #- talks
 
 # defaults:
