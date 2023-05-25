@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Howdy!
+title: Hallo!
 ---
 
-Working on it...
+It's me Vishnu here, responsible for just about everything on this site. Take a look around.
 
 ---
