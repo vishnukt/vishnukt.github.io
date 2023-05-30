@@ -10,4 +10,4 @@ part of ORIGO’2020 CSE DEPT. FEST using UNITY - VUFORIA
 
 Tech Stack Used: Unity, Vuforia, C#
 
-[[APK]](https://drive.google.com/file/d/1KugcDltngbENseSrHY7Ut9FxdFTTekWi/view)
+[[APK]](https://drive.google.com/file/d/1KugcDltngbENseSrHY7Ut9FxdFTTekWi/view){:target="_blank"}

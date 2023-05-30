@@ -12,5 +12,5 @@ lookODU is a registered product of the parent company [Splendre Eyemag Pvt.Ltd](
 
 Backend Tech Stack Used - Nodejs, Expressjs, MongoDB, ElasticSearch, Redis, Amazon Web Services (AWS), Django, Flask, PostgreSQL
 
-[[PlayStore] ](https://play.google.com/store/apps/details?id=com.splendre.lookodu)
-[[AppStore] ](https://apps.apple.com/app/id1524276688)
+[[PlayStore] ](https://play.google.com/store/apps/details?id=com.splendre.lookodu){:target="_blank"}
+[[AppStore] ](https://apps.apple.com/app/id1524276688){:target="_blank"}
